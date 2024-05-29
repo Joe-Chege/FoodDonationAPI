@@ -9,4 +9,4 @@ pymongo
 motor
 passlib
 python-jose[cryptography]
-python -m pip install "pymongo[srv]"
+pymongo[srv]
